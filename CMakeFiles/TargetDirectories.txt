@@ -1,0 +1,3 @@
+/home/nikita/cubemx_projects/machine/CMakeFiles/STM32_Project.dir
+/home/nikita/cubemx_projects/machine/CMakeFiles/edit_cache.dir
+/home/nikita/cubemx_projects/machine/CMakeFiles/rebuild_cache.dir
